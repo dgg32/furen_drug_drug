@@ -1,0 +1,197 @@
+action_id,name
+N0000000160,Cyclooxygenase Inhibitors
+N0000000134,Lipoxygenase Inhibitors
+N0000184008,Antigen Neutralization
+N0000009949,Antibody-Receptor Interactions
+N0000000135,Immunologic Adjuvants
+N0000000256,Serotonin Agonists
+N0000175764,Serotonin 1d Receptor Agonists
+N0000175763,Serotonin 1b Receptor Agonists
+N0000000225,Insulin Receptor Agonists
+N0000175964,Vitamin K Inhibitors
+N0000000164,Vitamin K Epoxide Reductase Inhibitors
+N0000175375,Peroxisome Proliferator-activated Receptor alpha Agonists
+N0000000150,Protein Synthesis Inhibitors
+N0000020060,DNA Polymerase Inhibitors
+N0000000133,Enzyme Inhibitors
+N0000000233,Nucleic Acid Synthesis Inhibitors
+N0000000114,Dopamine Uptake Inhibitors
+N0000000102,Norepinephrine Uptake Inhibitors
+N0000010256,Tubulin Interactions
+N0000000190,Histamine H1 Receptor Antagonists
+N0000000118,GABA A Modulators
+N0000000196,GABA A Agonists
+N0000000082,Immunologic Factor Interactions
+N0000000142,Biological Macromolecular Activity
+N0000175684,Full Opioid Agonists
+N0000000174,Opioid Agonists
+N0000000126,5-alpha Reductase Inhibitors
+N0000175086,Phosphodiesterase 3 Inhibitors
+N0000000128,Phosphodiesterase Inhibitors
+N0000175450,Corticosteroid Hormone Receptor Agonists
+N0000000159,Glucocorticoid Receptor Agonists
+N0000009947,Nucleoside Reverse Transcriptase Inhibitors
+N0000000181,Angiotensin-converting Enzyme Inhibitors
+N0000000220,Electrolyte Activity
+N0000000230,Dopamine Antagonists
+N0000175799,Dopamine D2 Antagonists
+N0000009919,Adrenergic alpha1-Antagonists
+N0000000184,Monoamine Oxidase Inhibitors
+N0000175761,Monoamine Oxidase-B Inhibitors
+N0000000176,Topoisomerase Inhibitors
+N0000000138,GABA A Receptor Interactions
+N0000000204,GABA B Receptor Interactions
+N0000000163,Enzyme Interactions
+N0000185507,Cytochrome P450 2C9 Inducers
+N0000185607,Cytochrome P450 2C19 Inducers
+N0000187063,Cytochrome P450 2C8 Inducers
+N0000187064,Cytochrome P450 2B6 Inducers
+N0000190118,Cytochrome P450 3A Inducers
+N0000000180,Sodium Channel Interactions
+N0000191267,Cytochrome P450 2D6 Inducers
+N0000191266,Cytochrome P450 1A2 Inducers
+N0000000107,Antithrombins
+N0000000231,Enzyme Activators
+N0000000169,Serine Proteinase Inhibitors
+N0000175635,Factor Xa Inhibitors
+N0000009915,Unknown Cellular or Molecular Interaction
+N0000000121,Hydroxymethylglutaryl-CoA Reductase Inhibitors
+N0000000226,Acid-Base Activity
+N0000009922,Adrenergic beta2-Agonists
+N0000000117,Dopamine Agonists
+N0000000099,Adrenergic alpha-Antagonists
+N0000185503,P-Glycoprotein Inhibitors
+N0000185504,Cytochrome P450 2C9 Inhibitors
+N0000182138,Cytochrome P450 1A2 Inhibitors
+N0000182137,Cytochrome P450 2D6 Inhibitors
+N0000190114,Cytochrome P450 3A Inhibitors
+N0000000069,Calcium Channel Antagonists
+N0000000161,Adrenergic beta-Antagonists
+N0000181004,Sodium Channel Antagonists
+N0000000211,Potassium Channel Interactions
+N0000000228,Structural Macromolecules
+N0000000100,Estrogen Receptor Agonists
+N0000009923,Adrenergic beta1-Antagonists
+N0000009924,Adrenergic beta2-Antagonists
+N0000009986,Alkalinizing Activity
+N0000000154,Opioid Antagonists
+N0000175686,Competitive Opioid Antagonists
+N0000175685,Partial Opioid Agonists
+N0000000207,Histamine Receptor Antagonists
+N0000000235,Carbonic Anhydrase Inhibitors
+N0000010262,Neurokinin 1 Antagonists
+N0000182140,Cytochrome P450 2C19 Inhibitors
+N0000182141,Cytochrome P450 3A4 Inhibitors
+N0000020025,14-alpha Demethylase Inhibitors
+N0000009963,Thrombin Inhibitors
+N0000009960,Antithrombin Activators
+N0000190115,Cytochrome P450 3A5 Inhibitors
+N0000009957,Ergosterol Synthesis Inhibitors
+N0000000115,Progestational Hormone Receptor Antagonists
+N0000000110,Glucocorticoid Receptor Antagonists
+N0000175912,Dipeptidyl Peptidase 4 Inhibitors
+N0000000090,Serotonin 5HT-3 Antagonists
+N0000175817,Serotonin 3 Receptor Antagonists
+N0000020065,L-Calcium Channel Receptor Antagonists
+N0000181819,Uncompetitive NMDA Receptor Antagonists
+N0000182147,Sigma-1 Receptor Agonists
+N0000000109,Serotonin Uptake Inhibitors
+N0000187058,Sodium-Glucose Transporter 2 Inhibitors
+N0000000130,Serotonin Antagonists
+N0000000209,Adrenergic alpha-Agonists
+N0000000203,Dopamine Receptor Interactions
+N0000182139,Cytochrome P450 2B6 Inhibitors
+N0000190113,Breast Cancer Resistance Protein Inhibitors
+N0000175448,Potassium Channel Antagonists
+N0000175760,Monoamine Oxidase-A Inhibitors
+N0000000224,Chloride Channel Antagonists
+N0000000168,Selective Estrogen Receptor Modulators
+N0000000238,Sodium-Potassium Exchanging ATPase Interactions
+N0000009918,Adrenergic alpha2-Agonists
+N0000009917,Adrenergic alpha1-Agonists
+N0000009921,Adrenergic beta1-Agonists
+N0000020026,Phosphodiesterase 5 Inhibitors
+N0000000085,Receptor Interactions
+N0000175365,Bile-acid Binding Activity
+N0000175542,M2 Protein Inhibitors
+N0000000193,Ion Channel Interactions
+N0000000146,Androgen Receptor Agonists
+N0000000236,Alkylating Activity
+N0000000166,alpha Glucosidase Inhibitors
+N0000010274,Amylase Inhibitors
+N0000185506,Cytochrome P450 3A4 Inducers
+N0000009946,Para-Aminobenzoic Acid Inhibitors
+N0000009916,Lipase Inhibitors
+N0000185499,Guanylate Cyclase Activators
+N0000000120,Nitric Oxide Donors
+N0000020086,DNA Gyrase Inhibitors
+N0000020087,Topoisomerase 4 Inhibitors
+N0000000177,Cholinesterase Inhibitors
+N0000000140,Calcium Channel Interactions
+N0000000125,Cholinergic Muscarinic Antagonists
+N0000182143,P2Y12 Receptor Antagonists
+N0000187062,Cytochrome P450 2C8 Inhibitors
+N0000010215,Transpeptidase Inhibitors
+N0000000170,Free Radical Scavenging Activity
+N0000009948,Non-Nucleoside Reverse Transcriptase Inhibitors
+N0000187061,Organic Cation Transporter 2 Inhibitors
+N0000000111,Folic Acid Metabolism Inhibitors
+N0000000191,Dihydrofolate Reductase Inhibitors
+N0000000147,Proton Pump Inhibitors
+N0000009958,Bone Surface Interactions
+N0000020074,Phosphate Chelating Activity
+N0000000122,Adrenergic Agonists
+N0000182728,Potassium Channel Openers
+N0000000215,ATP-Binding Cassette (ABC) Transporter Interactions
+N0000000116,GABA B Agonists
+N0000175451,Tumor Necrosis Factor Receptor Blocking Activity
+N0000175377,Peroxisome Proliferator-activated Receptor gamma Agonists
+N0000175917,Thyroid Hormone Synthesis Inhibitors
+N0000000155,Uncouplers
+N0000000132,Organic Anion Transporter Interactions
+N0000181005,Sodium Chloride Symporter Inhibitors
+N0000000105,Neurotransmitter Transporter Interactions
+N0000175076,Protein Kinase Inhibitors
+N0000020009,Bcr-Abl Tyrosine Kinase Inhibitors
+N0000175370,Cholinergic Antagonists
+N0000000243,Androgen Receptor Antagonists
+N0000000242,Transcription Factor Activity
+N0000191004,Interleukin-6 Antagonists
+N0000000098,Thymidylate Synthetase Inhibitors
+N0000175074,Nucleoside Synthesis Inhibitors
+N0000190478,Interleukin 6 Receptor Antagonists
+N0000000246,HIV Protease Inhibitors
+N0000000234,Norepinephrine Transporter Interactions
+N0000000167,Serotonin Transporter Interactions
+N0000020088,Topoisomerase 2 Inhibitors
+N0000000108,Prostaglandin Receptor Antagonists
+N0000175080,Aromatase Inhibitors
+N0000000083,Leukotriene Receptor Antagonists
+N0000000223,Cellular or Molecular Interactions
+N0000000070,Angiotensin 2 Receptor Antagonists
+N0000180999,Angiotensin 2 Type 1 Receptor Antagonists
+N0000010260,beta Tubulin Interactions
+N0000191624,Cytochrome P450 1A Inducers
+N0000191866,Opioid mu-Receptor Agonists
+N0000175355,Binding Activity
+N0000175458,Calcineurin Inhibitors
+N0000191269,UDP Glucuronosyltransferases Inhibitors
+N0000191272,UGT1A1 Inhibitors
+N0000000239,P-Glycoprotein Interactions
+N0000000151,Histamine H2 Receptor Antagonists
+N0000000206,Xanthine Oxidase Inhibitors
+N0000020058,Glucagon-like Peptide-1 (GLP-1) Agonists
+N0000000074,GABA A Antagonists
+N0000020081,Increased Calcium-sensing Receptor Sensitivity
+N0000010226,Antibody Interactions
+N0000000183,Acetyl Aldehyde Dehydrogenase Inhibitors
+N0000000087,Chelating Activity
+N0000193954,Cytochrome P450 1A1 Inhibitors
+N0000010265,Squalene Monooxygenase Inhibitors
+N0000020027,Glucan Synthase Inhibitors
+N0000010275,Glucagon Receptor Interactions
+N0000000065,Physiochemical Activity
+N0000000198,Serotonin Receptor Interactions
+N0000000194,Somatostatin Receptor Agonists
+N0000009920,Adrenergic alpha2-Antagonists
+N0000175788,Adenosine Receptor Agonists

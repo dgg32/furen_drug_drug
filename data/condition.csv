@@ -1,0 +1,870 @@
+condition_id,name
+M0542422,Eye Pain
+M0006829,Drug Hypersensitivity
+M0004771,"Colitis, Ulcerative"
+M0017632,Proctitis
+M0019836,Sigmoid Diseases
+M0018366,Rabies
+M0013864,Migraine Disorders
+M0010859,Hypertension
+M0011569,Intestinal Diseases
+M0005191,Coronary Disease
+M0003887,"Ischemic Attack, Transient"
+M0001181,"Angina Pectoris, Variant"
+M0025176,Peripheral Vascular Diseases
+M0001715,"Arrhythmias, Cardiac"
+M0328363,Migraine with Aura
+M0022990,Wolff-Parkinson-White Syndrome
+M0014340,Myocardial Infarction
+M0328070,Stroke
+M0012644,Liver Diseases
+M0006155,"Diabetes Mellitus, Type 2"
+M0010851,Hypersensitivity
+M0025687,Diabetic Ketoacidosis
+M0021430,Thromboembolism
+M0021432,Thrombophlebitis
+M0001926,Atrial Fibrillation
+M0017367,Postoperative Complications
+M0018126,Pulmonary Embolism
+M0005194,Coronary Thrombosis
+M0029908,Venous Thrombosis
+M0010861,"Hypertension, Malignant"
+M0003884,Cerebral Hemorrhage
+M0010149,Hemophilia A
+M0010152,Hemorrhage
+M0010153,Gastrointestinal Hemorrhage
+M0018187,"Purpura, Thrombocytopenic"
+M0006985,Eclampsia
+M0007242,Emaciation
+M0007393,"Endocarditis, Bacterial"
+M0006630,Diverticulitis
+M0004363,Hemophilia B
+M0003424,Carcinoma
+M0001174,Aneurysm
+M0022808,Vitamin K Deficiency
+M0001803,Ascorbic Acid Deficiency
+M0028512,Postoperative Hemorrhage
+M0017443,Pre-Eclampsia
+M0017471,Pregnancy
+M0017828,Prostatic Diseases
+M0017876,Protein-Energy Malnutrition
+M0016298,Pericardial Effusion
+M0016303,Pericarditis
+M0000052,"Abortion, Threatened"
+M0000661,Alcoholism
+M0012382,Leukemia
+M0010818,Hypercholesterolemia
+M0010833,Hyperlipoproteinemias
+M0023401,Hypertriglyceridemia
+M0502868,Coronary Artery Disease
+M0008958,Gallbladder Diseases
+M0012645,Liver Dysfunction
+M0025970,Liver Failure
+M0025974,Kidney Failure
+M0012640,"Liver Cirrhosis, Biliary"
+M0010200,Hepatic Encephalopathy
+M0007733,Escherichia coli Infections
+M0026097,"Skin Diseases, Bacterial"
+M0002126,Bacterial Infections
+M0023374,Inflammatory Bowel Diseases
+M0011575,Intestinal Obstruction
+M0010276,Herpes Genitalis
+M0010278,Herpes Labialis
+M0010279,Herpes Simplex
+M0010280,Herpes Zoster
+M0004041,Chickenpox
+M0025965,AIDS-Related Opportunistic Infections
+M0009578,Graft vs Host Disease
+M0017975,Psoriasis
+M0012156,Lactation
+M0001943,Attention Deficit Disorder with Hyperactivity
+M0006033,Depressive Disorder
+M0014471,Narcolepsy
+M0009260,Glaucoma
+M0328648,Tics
+M0001533,Anxiety Disorders
+M0009230,Tourette Syndrome
+M0018023,Psychomotor Agitation
+M0021564,Tinea Capitis
+M0021566,Tinea Pedis
+M0017334,Porphyrias
+M0005017,"Conjunctivitis, Allergic"
+M0019020,"Rhinitis, Allergic, Perennial"
+M0007566,"Epilepsies, Partial"
+M0000652,Alcohol Withdrawal Delirium
+M0024213,"Glaucoma, Angle-Closure"
+M0018060,Psychotic Disorders
+M0015124,Nutritional and Metabolic Diseases
+M0006916,"Dysentery, Bacillary"
+M0006212,Diarrhea
+M0004815,"Colonic Diseases, Functional"
+M0007479,"Enterocolitis, Pseudomembranous"
+M0005043,Constipation
+M0019393,Salmonella Infections
+M0010381,Hirsutism
+M0017830,Prostatic Hyperplasia
+M0017833,Prostatic Neoplasms
+M0000757,Alopecia
+M0004045,Child
+M0011515,Intermittent Claudication
+M0009575,"Graft Occlusion, Vascular"
+M0009953,Heart Failure
+M0002863,Bradycardia
+M0002967,Bronchial Spasm
+M0002972,Bronchitis
+M0001589,Apnea
+M0001885,Asthma
+M0018129,Pulmonary Emphysema
+M0010871,Hyperthyroidism
+M0019597,Seizures
+M0016211,Peptic Ulcer
+M0010814,Hypercalcemia
+M0011307,Inflammation
+M0010044,Hematologic Diseases
+M0018891,Respiratory Distress Syndrome
+M0007681,Erythema Multiforme
+M0006048,Dermatitis Herpetiformis
+M0006050,"Dermatitis, Atopic"
+M0002404,Berylliosis
+M0002885,Brain Neoplasms
+M0022445,Uveitis
+M0021487,Thyroiditis
+M0022131,"Tuberculosis, Pulmonary"
+M0020377,"Spondylitis, Ankylosing"
+M0019014,Rheumatic Diseases
+M0014314,Mycosis Fungoides
+M0019426,Sarcoidosis
+M0016112,Pemphigus
+M0014639,Nephrotic Syndrome
+M0019699,Serum Sickness
+M0020964,Synovitis
+M0014716,Neurologic Manifestations
+M0012757,"Lupus Erythematosus, Systemic"
+M0014197,Multiple Sclerosis
+M0000484,Adrenal Insufficiency
+M0023372,"Arthritis, Gouty"
+M0001750,"Arthritis, Rheumatoid"
+M0011265,Infant
+M0014313,Mycoses
+M0019935,"Skin Diseases, Infectious"
+M0010470,HIV
+M0023997,HIV Infections
+M0010210,Hepatitis B
+M0029244,"Hepatitis B, Chronic"
+M0000245,Acquired Immunodeficiency Syndrome
+M0006160,Diabetic Nephropathies
+M0027729,"Ventricular Dysfunction, Left"
+M0026394,"Hypertrophy, Left Ventricular"
+M0010808,Hyperaldosteronism
+M0010927,Hypotension
+M0001197,Angioedema
+M0018770,Renal Artery Obstruction
+M0028144,"Anemia, Iron-Deficiency"
+M0017476,"Pregnancy Complications, Hematologic"
+M0010098,Hemochromatosis
+M0010179,Hemosiderosis
+M0001123,"Anemia, Hemolytic"
+M0001134,"Anemia, Megaloblastic"
+M0006028,Depression
+M0019489,Schizophrenia
+M0015963,Parkinson Disease
+M0000842,Alzheimer Disease
+M0023956,Histiocytosis
+M0019433,"Sarcoma, Ewing"
+M0002635,Urinary Bladder Neoplasms
+M0021192,Testicular Neoplasms
+M0022431,Uterine Neoplasms
+M0022033,Trophoblastic Neoplasms
+M0019001,Rhabdomyosarcoma
+M0019437,"Sarcoma, Kaposi"
+M0014699,Neuroblastoma
+M0012749,Lung Neoplasms
+M0023827,"Leukemia, Myeloid, Acute"
+M0009557,Gout
+M0008421,Fever
+M0015742,Pain
+M0019009,Rheumatic Fever
+M0015509,Osteoarthritis
+M0003885,Cerebral Infarction
+M0010038,Hematemesis
+M0010157,Hemorrhagic Disorders
+M0004082,"Child, Preschool"
+M0002683,Blood Coagulation Disorders
+M0002703,Blood Platelet Disorders
+M0017490,"Pregnancy Trimester, Third"
+M0014487,Nasal Polyps
+M0013320,Melena
+M0007564,Epilepsy
+M0007577,"Epilepsy, Absence"
+M0029642,Mood Disorders
+M0002571,Bipolar Disorder
+M0025874,"Epilepsy, Complex Partial"
+M0335637,Mitochondrial Diseases
+M0003893,Diffuse Cerebral Sclerosis of Schilder
+M0529166,"Urea Cycle Disorders, Inborn"
+M0008663,Folic Acid Deficiency
+M0014686,Neural Tube Defects
+M0001120,"Anemia, Aplastic"
+M0001137,"Anemia, Pernicious"
+M0007573,"Epilepsy, Tonic-Clonic"
+M0007578,"Epilepsy, Temporal Lobe"
+M0020463,Status Epilepticus
+M0007580,"Epilepsy, Post-Traumatic"
+M0029713,Delavirdine
+M0001182,"Angina, Unstable"
+M0026104,Myocardial Ischemia
+M0021428,Thrombocytopenia
+M0011290,"Infant, Premature, Diseases"
+M0010925,Hypoprothrombinemias
+M0000014,"Abnormalities, Drug-Induced"
+M0001748,"Arthritis, Juvenile"
+M0009824,Headache
+M0006924,Dysmenorrhea
+M0004864,Common Cold
+M0003070,Bursitis
+M0021704,Toothache
+M0002115,Back Pain
+M0010264,"Hernia, Hiatal"
+M0009980,Heartburn
+M0009024,Gastroesophageal Reflux
+M0006885,Duodenal Ulcer
+M0006927,Dyspepsia
+M0020546,Stomach Ulcer
+M0012016,"Kidney Failure, Chronic"
+M0384773,"Bronchitis, Chronic"
+M0001886,"Asthma, Exercise-Induced"
+M0020996,Tachycardia
+M0009740,Haemophilus Infections
+M0024228,"Eye Infections, Bacterial"
+M0002147,Bacteroides Infections
+M0015562,Otitis Externa
+M0019098,Rickettsia Infections
+M0020568,Streptococcal Infections
+M0013369,"Meningitis, Meningococcal"
+M0012014,Kidney Diseases
+M0022595,Ventricular Fibrillation
+M0021006,"Tachycardia, Supraventricular"
+M0009943,Atrioventricular Block
+M0017497,"Pregnancy, Abdominal"
+M0020955,Syncope
+M0019783,"Shock, Cardiogenic"
+M0019828,Sick Sinus Syndrome
+M0010845,Hyperparathyroidism
+M0010891,Hypocalcemia
+M0022804,Vitamin E Deficiency
+M0019095,Rickets
+M0022798,Vitamin D Deficiency
+M0006855,Drug Toxicity
+M0012908,Malabsorption Syndromes
+M0011288,"Infant, Premature"
+M0010824,Hyperglycemia
+M0006152,"Diabetes Mellitus, Type 1"
+M0010901,Hypoglycemia
+M0009553,Gonorrhea
+M0009018,Gastroenteritis
+M0007683,Erythrasma
+M0003985,Chancroid
+M0004107,Chlamydia Infections
+M0003245,Campylobacter Infections
+M0022977,Whooping Cough
+M0022336,Urethritis
+M0020423,Staphylococcal Infections
+M0014307,Mycoplasma Infections
+M0017926,Protozoan Infections
+M0020966,Syphilis
+M0000231,Acne Vulgaris
+M0012293,Legionnaires' Disease
+M0002989,Brucellosis
+M0025747,"Meningitis, Bacterial"
+M0022106,Tuberculosis
+M0012361,Leprosy
+M0010905,Hypogonadism
+M0002910,Breast Neoplasms
+M0029082,Hot Flashes
+M0025370,Primary Ovarian Insufficiency
+M0013381,"Menopause, Premature"
+M0013382,Menorrhagia
+M0024020,"Osteoporosis, Postmenopausal"
+M0025700,Endometrial Neoplasms
+M0581820,Tobacco Use
+M0003877,Cerebral Arterial Diseases
+M0014599,"Neoplasms, Hormone-Dependent"
+M0009261,"Glaucoma, Open-Angle"
+M0001180,Angina Pectoris
+M0009951,Heart Diseases
+M0025237,Bronchial Hyperreactivity
+M0018125,Pulmonary Edema
+M0384655,"Pulmonary Disease, Chronic Obstructive"
+M0010909,Hypokalemia
+M0029982,Lithiasis
+M0000215,"Acidosis, Renal Tubular"
+M0012008,Kidney Calculi
+M0010828,Hyperkalemia
+M0480487,Renal Insufficiency
+M0005757,Dehydration
+M0328224,"Paralysis, Hyperkalemic Periodic"
+M0022373,Urinary Tract Infections
+M0000346,Addison Disease
+M0011185,Inappropriate ADH Syndrome
+M0004244,Cholera
+M0004637,Clostridium Infections
+M0021752,Trachoma
+M0022185,Typhoid Fever
+M0017072,"Pneumonia, Mycoplasma"
+M0019235,Rocky Mountain Spotted Fever
+M0016945,Plague
+M0015434,Psittacosis
+M0012812,Lymphogranuloma Venereum
+M0000290,Actinomycosis
+M0011285,"Infant, Newborn"
+M0019897,Sinoatrial Block
+M0000337,Adams-Stokes Syndrome
+M0373535,Respiratory Depression
+M0014475,Opioid-Related Disorders
+M0022844,Vomiting
+M0020676,Substance Withdrawal Syndrome
+M0014528,Nausea
+M0017935,Pruritus
+M0017488,"Pregnancy Trimester, First"
+M0000819,Altitude Sickness
+M0010911,Hyponatremia
+M0007997,Excipients
+M0012746,"Lung Diseases, Obstructive"
+M0012636,Liver Cirrhosis
+M0000213,Acidosis
+M0000482,Adrenal Gland Diseases
+M0010434,Histoplasmosis
+M0003262,"Candidiasis, Vulvovaginal"
+M0004676,Coccidioidomycosis
+M0002647,Blastomycosis
+M0003259,"Candidiasis, Chronic Mucocutaneous"
+M0003261,"Candidiasis, Oral"
+M0025155,Fungemia
+M0025746,"Meningitis, Cryptococcal"
+M0017064,Pneumonia
+M0006587,Disseminated Intravascular Coagulation
+M0328611,Intracranial Hemorrhages
+M0023019,Wounds and Injuries
+M0019944,Skin Ulcer
+M0003260,"Candidiasis, Cutaneous"
+M0021568,Tinea Versicolor
+M0015861,Paracoccidioidomycosis
+M0019584,"Dermatitis, Seborrheic"
+M0024241,Acanthamoeba Keratitis
+M0012333,Leishmaniasis
+M0328044,Central Nervous System Fungal Infections
+M0017499,"Pregnancy, Ectopic"
+M0013360,Meningeal Neoplasms
+M0000457,Adnexal Diseases
+M0000478,Adrenal Cortex Diseases
+M0029915,Postoperative Nausea and Vomiting
+M0027697,Soft Tissue Infections
+M0027639,"Pneumonia, Bacterial"
+M0001927,Atrial Flutter
+M0502050,Congestive Heart Failure
+M0026083,"Tachycardia, Ventricular"
+M0012710,Lown-Ganong-Levine Syndrome
+M0014253,"Muscular Dystrophy, Duchenne"
+M0005255,Cough
+M0007051,Edema
+M0002194,Bartter Syndrome
+M0016099,Pellagra
+M0021567,Onychomycosis
+M0004652,Cluster Headache
+M0028155,Sepsis
+M0006031,"Depressive Disorder, Major"
+M0002907,Breast Feeding
+M0028234,Ventricular Premature Complexes
+M0028235,Atrial Premature Complexes
+M0009945,Heart Block
+M0012684,Long QT Syndrome
+M0005551,Cystic Fibrosis
+M0001791,Ascites
+M0017271,Polyuria
+M0001524,Anuria
+M0006162,Diabetic Neuropathies
+M0328092,Alcoholic Neuropathy
+M0022796,Vitamin B 12 Deficiency
+M0005604,Cytomegalovirus Infections
+M0026791,Cytomegalovirus Retinitis
+M0001119,Anemia
+M0014782,Neutropenia
+M0023869,Nasal Obstruction
+M0009606,Granuloma Inguinale
+M0002836,Borrelia Infections
+M0025165,Helicobacter Infections
+M0002189,Bartonella Infections
+M0010865,"Hypertension, Pulmonary"
+M0028121,"Impotence, Vasculogenic"
+M0010007,Helminthiasis
+M0001101,Ancylostomiasis
+M0001785,Ascariasis
+M0021941,Trichuriasis
+M0026142,Enterobiasis
+M0002480,"Cholestasis, Extrahepatic"
+M0009033,Gastrointestinal Diseases
+M0011309,"Influenza, Human"
+M0006920,"Dyskinesia, Drug-Induced"
+M0006935,Dystonia
+M0025992,"Akathisia, Drug-Induced"
+M0015968,"Parkinson Disease, Secondary"
+M0008440,Fibrocystic Breast Disease
+M0007413,Endometriosis
+M0009154,"Genital Diseases, Female"
+M0009155,"Genital Diseases, Male"
+M0022908,Granulomatosis with Polyangiitis
+M0010484,Hodgkin Disease
+M0502706,Precursor Cell Lymphoblastic Leukemia-Lymphoma
+M0015593,Ovarian Neoplasms
+M0025253,"Purpura, Thrombocytopenic, Idiopathic"
+M0023821,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+M0003058,Burkitt Lymphoma
+M0001127,"Anemia, Hemolytic, Autoimmune"
+M0018667,"Red-Cell Aplasia, Pure"
+M0018961,Retinoblastoma
+M0014279,Myasthenia Gravis
+M0012759,Lupus Nephritis
+M0012865,Waldenstrom Macroglobulinemia
+M0014195,Multiple Myeloma
+M0023808,"Leukemia, Lymphocytic, Chronic, B-Cell"
+M0002788,Bone Marrow Diseases
+M0022400,Urologic Diseases
+M0020394,Sprains and Strains
+M0022414,Urticaria
+M0006373,Digestive System Abnormalities
+M0020646,Subarachnoid Hemorrhage
+M0007472,Enterobacteriaceae Infections
+M0021732,Toxoplasmosis
+M0015563,Otitis Media
+M0014935,Nocardia Infections
+M0012910,Malaria
+M0015159,Obesity
+M0004258,Cholestasis
+M0009782,Hand Dermatoses
+M0008112,Facial Dermatoses
+M0008722,Foot Dermatoses
+M0019465,Scalp Dermatoses
+M0012283,Leg Dermatoses
+M0011294,Infections
+M0020462,Status Asthmaticus
+M0008525,Fissure in Ano
+M0023299,"Esophageal Spasm, Diffuse"
+M0011598,Intraoperative Complications
+M0009821,Craniocerebral Trauma
+M0019782,Shock
+M0007560,Epididymitis
+M0005185,Corneal Ulcer
+M0005558,Cystitis
+M0005021,"Conjunctivitis, Bacterial"
+M0015566,"Otitis Media, Suppurative"
+M0017835,Prostatitis
+M0017900,Proteus Infections
+M0012059,Klebsiella Infections
+M0025570,"Malaria, Falciparum"
+M0028090,Ventricular Dysfunction
+M0015732,"Pacemaker, Artificial"
+M0005442,Cyanosis
+M0017099,Poisoning
+M0029660,Schizophrenia Spectrum and Other Psychotic Disorders
+M0004841,Coma
+M0014332,Myeloproliferative Disorders
+M0549889,Intraabdominal Infections
+M0028122,Abdominal Abscess
+M0020427,Staphylococcal Skin Infections
+M0000459,Pelvic Infection
+M0019666,Septicemia
+M0018195,Pyelonephritis
+M0015751,"Pain, Postoperative"
+M0011357,"Injections, Spinal"
+M0001560,Coronary Artery Bypass
+M0411274,"Delivery, Obstetric"
+M0006520,Diphtheria
+M0007327,Empyema
+M0007392,Endocarditis
+M0007678,Erysipelothrix Infections
+M0002845,Botulism
+M0001315,Anthrax
+M0021200,Tetanus
+M0018507,Rat-Bite Fever
+M0017055,Pneumococcal Infections
+M0018919,Respiratory Tract Infections
+M0016001,Pasteurella Infections
+M0012614,Listeriosis
+M0013373,Meningococcal Infections
+M0006046,Dermatitis
+M0022791,Vitamin A Deficiency
+M0023065,Xerophthalmia
+M0015129,Night Blindness
+M0016756,Photosensitivity Disorders
+M0022758,Virus Diseases
+M0011963,"Keratitis, Dendritic"
+M0016622,Phobic Disorders
+M0480692,"Neuralgia, Postherpetic"
+M0567378,"Rhinitis, Allergic"
+M0009814,"Rhinitis, Allergic, Seasonal"
+M0019929,Skin Diseases
+M0000322,Acute Disease
+M0003806,Central Nervous System Infections
+M0002779,"Bone Diseases, Infectious"
+M0025671,Serratia Infections
+M0022129,"Peritonitis, Tuberculous"
+M0017955,Pseudomonas Infections
+M0027865,Gastroparesis
+M0016586,Pheochromocytoma
+M0011577,Intestinal Perforation
+M0025297,Panic Disorder
+M0020602,"Stress Disorders, Post-Traumatic"
+M0015170,Obsessive-Compulsive Disorder
+M000601696,Feeding and Eating Disorders
+M0022633,Vertigo
+M0014105,Motion Sickness
+M0008454,Fibromyalgia
+M0020312,Spinal Cord Injuries
+M0005335,Crohn Disease
+M0005797,Dementia
+M0001983,Autistic Disorder
+M0022145,Tularemia
+M0017073,"Pneumonia, Pneumocystis"
+M0007754,"Esophagitis, Peptic"
+M0010826,Hyperhidrosis
+M0004742,Colic
+M0002636,"Urinary Bladder, Neurogenic"
+M0021869,Tremor
+M0020203,Spasm
+M0014242,Muscle Rigidity
+M0019019,Rhinitis
+M0019820,Sialorrhea
+M0004816,Irritable Bowel Syndrome
+M0011023,Ileal Diseases
+M0022334,Urethral Obstruction
+M0019784,"Shock, Hemorrhagic"
+M0013293,"Megacolon, Toxic"
+M0004052,Child Behavior Disorders
+M0008254,Fatigue
+M0328295,"Sleep Apnea, Obstructive"
+M0007747,Esophageal Diseases
+M0003064,Burns
+M0021001,"Tachycardia, Paroxysmal"
+M0014130,Mouth Diseases
+M0017489,"Pregnancy Trimester, Second"
+M0007753,Esophagitis
+M0023152,Zollinger-Ellison Syndrome
+M0023883,Maxillary Sinusitis
+M0506086,Hyperphosphatemia
+M0026730,Hypophosphatemia
+M0019901,Sinusitis
+M0013414,Intellectual Disability
+M0502049,Heart Decompensation
+M0590747,Lennox Gastaut Syndrome
+M0007497,Enuresis
+M0000522,"Affective Disorders, Psychotic"
+M0552684,"Angina, Stable"
+M0500631,Acute Coronary Syndrome
+M0011304,"Infertility, Female"
+M0011306,"Infertility, Male"
+M0022428,Uterine Hemorrhage
+M0021478,Thyroid Diseases
+M0025244,Central Nervous System Neoplasms
+M0015589,Ovarian Cysts
+M0021666,Tonsillitis
+M0014288,"Mycobacterium Infections, Nontuberculous"
+M0026010,"Porphyria, Acute Intermittent"
+M0004260,"Jaundice, Obstructive"
+M0011403,Sleep Initiation and Maintenance Disorders
+M0013370,"Meningitis, Pneumococcal"
+M0009926,Hearing Disorders
+M0554477,Fusariosis
+M0003258,Candidiasis
+M0001850,Aspergillosis
+M0019543,"Scleroderma, Systemic"
+M0012756,"Lupus Erythematosus, Discoid"
+M0012911,"Malaria, Avian"
+M0000878,Amebiasis
+M0022771,Vision Disorders
+M0018945,Retinal Diseases
+M0014287,Mycobacterium Infections
+M0010816,Hypercapnia
+M0011581,Paralytic Ileus
+M0533762,Post-Exposure Prophylaxis
+M0009516,Goiter
+M0021477,Thyroid Crisis
+M0007742,Esophageal and Gastric Varices
+M0328393,Essential Tremor
+M0018534,Raynaud Disease
+M0009300,Glomerulonephritis
+M0014243,Muscle Spasticity
+M0000230,Acinetobacter Infections
+M0010811,Hyperbilirubinemia
+M0005138,"Seizures, Febrile"
+M0328386,"Epilepsy, Benign Neonatal"
+M0000610,Airway Obstruction
+M0026741,Hypereosinophilic Syndrome
+M0504879,Myelodysplastic-Myeloproliferative Diseases
+M0009038,Gastrointestinal Neoplasms
+M0002638,Blast Crisis
+M0027452,Dermatofibrosarcoma
+M0405932,"Mastocytosis, Systemic"
+M0012388,"Leukemia, Lymphoid"
+M0012396,"Leukemia, Myeloid"
+M0023822,"Leukemia, Myeloid, Accelerated Phase"
+M0016084,Pediatrics
+M0006913,Dysentery
+M0001745,"Arthritis, Infectious"
+M0015544,Osteomyelitis
+M0334698,Basilar-Type Migraine
+M0025673,Neisseriaceae Infections
+M0005015,Conjunctivitis
+M0011962,Keratitis
+M0024239,"Eye Infections, Fungal"
+M0005177,Corneal Diseases
+M0005023,"Conjunctivitis, Viral"
+M0017534,Premenstrual Syndrome
+M0009938,Heart Arrest
+M0021495,Thyrotoxicosis
+M0022327,Ureteral Obstruction
+M0011716,Iris Diseases
+M0000418,Tissue Adhesions
+M0012346,Lens Diseases
+M0022994,Women
+M0010343,Hiccup
+M0029636,Attention Deficit and Disruptive Behavior Disorders
+M0021604,Tobacco Use Disorder
+M0010821,Hyperemia
+M0003453,"Cardiac Output, Low"
+M0003464,"Cardiomyopathy, Hypertrophic"
+M0016304,"Pericarditis, Constrictive"
+M0001053,Amyloidosis
+M0002876,Brain Edema
+M0004792,Collagen Diseases
+M0019786,"Shock, Septic"
+M0011717,Iritis
+M0024246,"Eye Infections, Viral"
+M0022124,"Tuberculosis, Ocular"
+M0005739,Pressure Ulcer
+M0017936,Pruritus Ani
+M0527454,Chemical and Drug Induced Liver Injury
+M0023329,Colorectal Neoplasms
+M0007934,Etretinate
+M0002630,Urinary Bladder Diseases
+M0022370,Urinary Incontinence
+M0024540,Urinary Retention
+M0007414,Endometritis
+M0003788,Cellulitis
+M0025156,Bacteremia
+M0012292,Legionellosis
+M0020204,"Spasms, Infantile"
+M0016567,Phenylketonurias
+M0015741,"Paget Disease, Extramammary"
+M0007740,Esophageal Achalasia
+M0007752,Esophageal Stenosis
+M0011580,Intestinal Pseudo-Obstruction
+M0014771,Neurosyphilis
+M0025572,"Malaria, Vivax"
+M0005195,Coronary Vasospasm
+M0025725,Gram-Negative Bacterial Infections
+M0019023,"Rhinitis, Vasomotor"
+M0544043,Metabolic Acidosis
+M0002980,Bronchopulmonary Dysplasia
+M0029628,Conduct Disorder
+M0003022,Bulimia Nervosa
+M0001279,Anorexia Nervosa
+M0021966,Trigeminal Neuralgia
+M0018926,Restless Legs Syndrome
+M0021155,Tendinitis
+M0010177,Hemorrhoids
+M0006052,"Dermatitis, Contact"
+M0000487,"Adrenal Hyperplasia, Congenital"
+M0006059,Dermatomycoses
+M0026098,"Skin Diseases, Viral"
+M0022111,"Tuberculosis, Cutaneous"
+M0019937,"Skin Diseases, Parasitic"
+M0568790,Drug Overdose
+M0010837,Hypernatremia
+M0000714,Alkalosis
+M0029826,Zygomycosis
+M0020384,Sporotrichosis
+M0016367,Peritonitis
+M0012335,"Leishmaniasis, Visceral"
+M0531351,"Hemiplegic migraine, familial type 1"
+M0531707,"Hemiplegic migraine, familial type 2"
+M0011734,Ischemia
+M0009353,Glucosephosphate Dehydrogenase Deficiency
+M0029883,Antithrombin III Deficiency
+M0029084,Intracranial Hypertension
+M0022793,Vitamin B Deficiency
+M0013496,"Metabolism, Inborn Errors"
+M0014234,Muscle Cramp
+M0014368,Myositis
+M0026008,Low Back Pain
+M0010673,Hydatidiform Mole
+M0007750,Esophageal Neoplasms
+M0004339,Choriocarcinoma
+M0020544,Stomach Neoplasms
+M0019439,Osteosarcoma
+M0012646,"Liver Diseases, Alcoholic"
+M0010819,Hyperlipoproteinemia Type II
+M0010832,"Hyperlipidemia, Familial Combined"
+M0010660,Huntington Disease
+M0328309,Spinal Cord Ischemia
+M0003888,Cerebral Palsy
+M0020313,Spinal Cord Neoplasms
+M0020379,Spondylolysis
+M0015750,"Pain, Intractable"
+M0014322,"Myelitis, Transverse"
+M0001654,Spider Bites
+M0021207,Tetany
+M0015552,Osteoporosis
+M0449414,Moraxellaceae Infections
+M0449415,Moraxella Infections
+M0026784,Community-Acquired Infections
+M0016483,Pharyngitis
+M0002872,"Brain Damage, Chronic"
+M0010803,Hymenolepiasis
+M0009224,Giardiasis
+M0006960,Echinococcosis
+M0029731,Neurocysticercosis
+M0004618,Clonorchiasis
+M0021726,Toxocariasis
+M0014540,Necatoriasis
+M0015338,Opisthorchiasis
+M0003473,Cardiovascular Diseases
+M0018657,Rectal Neoplasms
+M0461241,"Urinary Bladder, Overactive"
+M0461242,"Urinary Incontinence, Urge"
+M0460785,Erysipelothrix rhusiopathiae
+M0025728,Gram-Positive Bacterial Infections
+M0002103,Bacillus anthracis
+M0025643,"Keratitis, Herpetic"
+M0022460,Vaccinia
+M0006911,Dysarthria
+M0328686,"Epilepsies, Myoclonic"
+M0021514,Tic Disorders
+M0014687,Neuralgia
+M0006931,Dyspnea
+M0009015,Gastritis
+M0020550,Stomatitis
+M0005381,Cryptococcosis
+M0009302,"Glomerulosclerosis, Focal Segmental"
+M0030735,radiotherapy
+M0014612,Neoplastic Processes
+M0016745,Photochemotherapy
+M0334961,Sleeplessness
+M0001531,Anxiety
+M0020923,Sweating
+M0012029,"Kidneys, Artificial"
+M0016320,Familial Mediterranean Fever
+M0006941,Ear Diseases
+M0453215,Esophageal Dysphagia
+M0003634,Catatonia
+M0011348,"Injections, Intra-Arterial"
+M0018897,Respiratory Insufficiency
+M0019963,Sleep Apnea Syndromes
+M0003195,Calculi
+M0023515,Tumor Lysis Syndrome
+M000601712,Sleep Wake Disorders
+M0017161,"Polychondritis, Relapsing"
+M0023793,"Leprosy, Lepromatous"
+M0028166,Multiple Endocrine Neoplasia Type 2a
+M0028167,Multiple Endocrine Neoplasia Type 2b
+M0328261,Photophobia
+M0011970,Keratosis
+M0012822,"Lymphoma, Non-Hodgkin"
+M0010846,"Hyperparathyroidism, Secondary"
+M0471516,"Hyperparathyroidism, Primary"
+M0015932,Parathyroid Neoplasms
+M0023777,Myocardial Reperfusion Injury
+M0014140,Dyskinesias
+M0002660,Blepharospasm
+M0023856,"Paraparesis, Spastic"
+M0014557,Nelson Syndrome
+M0002634,Urinary Bladder Neck Obstruction
+M0026129,Gastric Outlet Obstruction
+M0024958,Frail Elderly
+M0002792,Bone Neoplasms
+M0015359,Optic Neuritis
+M0017043,Pleural Effusion
+M0018746,Relapsing Fever
+M0020542,Stomach Diseases
+M0010353,High Pressure Neurological Syndrome
+M0018918,Respiratory Tract Diseases
+M0004241,Cholelithiasis
+M0004228,Cholangitis
+M0002489,Biliary Fistula
+M0439583,"Cholecystitis, Acute"
+M0015809,Pancreatitis
+M0003021,Bulimia
+M0013152,Measles
+M0011155,Immunologic Deficiency Syndromes
+M0028434,Bone Marrow Neoplasms
+M0012817,Lymphoma
+M0001610,Appendicitis
+M0013367,"Meningitis, Haemophilus"
+M0013309,Melanoma
+M000621444,Myoclonic Seizures
+M0005192,Coronary Occlusion
+M0010235,Hepatolenticular Degeneration
+M0005557,Cystinuria
+M0013450,Mercury Poisoning
+M0012268,Lead Poisoning
+M0000580,Agranulocytosis
+M0549551,Musculoskeletal Pain
+M0461663,Hepatic Insufficiency
+M0008308,Female
+M0487803,Respiratory Aspiration
+M0542149,Candidemia
+M0000579,Agoraphobia
+M0001278,Anorexia
+M0023509,Mycobacterium avium-intracellulare Infection
+M0012421,Leukopenia
+M0002099,Babesiosis
+M0010145,Hemolytic-Uremic Syndrome
+M0002627,Blackwater Fever
+M0021571,Tinnitus
+M0001076,Anaphylaxis
+M0011359,"Injections, Subcutaneous"
+M0005552,Cysticercosis
+M0019481,Schistosomiasis
+M0011570,"Intestinal Diseases, Parasitic"
+M0024245,"Onchocerciasis, Ocular"
+M0007466,Enteritis
+M0019394,"Salmonella Infections, Animal"
+M0008084,Eye Abnormalities
+M0015120,Nutrition Disorders
+M0021562,Tinea
+M0029252,"Hepatitis C, Chronic"
+M0022928,West Nile Fever
+M0027589,Respiratory Syncytial Virus Infections
+M0000405,"Adenovirus Infections, Human"
+M0010129,Hemoglobinopathies
+M0029243,"Hepatitis, Autoimmune"
+M0483885,Tendinopathy
+M0006877,"Ductus Arteriosus, Patent"
+M0029980,"Enterocolitis, Necrotizing"
+M0011444,Insulinoma
+M0020904,Surgical Wound Infection
+M0018036,Psychophysiologic Disorders
+M0025299,"Vaginosis, Bacterial"
+M0021930,Trichomonas Vaginitis
+M0019267,Rosacea
+M0000059,Abscess
+M0021928,Trichomonas Infections
+M0007049,Eczema
+M0006208,Diaper Rash
+M0028478,Cafe-au-Lait Spots
+M0020814,Sunburn
+M0019939,Skin Neoplasms
+M0015803,Pancreatic Neoplasms
+M0016922,Pituitary Neoplasms
+M0000261,Acromegaly
+M0000367,Adenoma
+M0006201,Dialysis
+M0009717,Gynecomastia
+M0018083,"Puberty, Precocious"
+M0027498,"Carcinoma, Ductal, Breast"
+M0328963,Deep Vein Thrombosis
+M0020998,"Tachycardia, Atrioventricular Nodal Reentry"
+M0012744,Lung Diseases
+M0414194,aliskiren
+M0010281,Herpes Zoster Ophthalmicus
+M0328381,"Encephalitis, Herpes Simplex"
+M0029738,Epstein-Barr Virus Infections

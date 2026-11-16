@@ -1,0 +1,10 @@
+How many drug-drug interactions are there at each severity level?
+Which medicine has the most interactions?
+Which medicine has the most life-threatening interactions?
+Are there any beneficial drug interactions?
+Which pairs of medicines treat the same condition but have a life-threatening interaction?
+Which medicines are contraindicated for a condition they also treat?
+What are the most common contraindications?
+Which medicine has the longest list of side effects?
+Which medicine treats the most conditions?
+Which medicines may treat hypertension?
